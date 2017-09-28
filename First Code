@@ -1,3 +1,4 @@
+just made some errors go away and added first line, lets check what Codacy say (error intended)
 return () -> {
   while (condition()) {
     method();
@@ -9,7 +10,7 @@ return new MyClass() {
     if (condition()) {
       try {
         something();
-      } catch (ProblemException e) {lets see ehat happens if I put some text here))
+      } catch (ProblemException e) {
         recover();
       }
     } else if (otherCondition()) {
